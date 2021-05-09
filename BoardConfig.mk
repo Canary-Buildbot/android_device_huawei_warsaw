@@ -31,7 +31,7 @@ TARGET_OTA_ASSERT_DEVICE := warsaw,hi6250
 
 #SHRP_Variables
 SHRP_DEVICE_CODE := warsaw
-SHRP_PATH := device/xiaomi/warsaw
+SHRP_PATH := device/huawei/warsaw
 SHRP_MAINTAINER :=  XXX
 SHRP_REC_TYPE :=  Treble
 SHRP_DEVICE_TYPE :=  A_Only
